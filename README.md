@@ -1,4 +1,7 @@
 # DirVisualizer
+[![Check](https://github.com/JarredTD/DirVisualizer/actions/workflows/check.yml/badge.svg)](https://github.com/JarredTD/DirVisualizer/actions/workflows/check.yml)
+[![Format](https://github.com/JarredTD/DirVisualizer/actions/workflows/fmt.yml/badge.svg)](https://github.com/JarredTD/DirVisualizer/actions/workflows/fmt.yml)
+[![Lint](https://github.com/JarredTD/DirVisualizer/actions/workflows/clippy.yml/badge.svg)](https://github.com/JarredTD/DirVisualizer/actions/workflows/clippy.yml)
 
 Tool for visualizing directories and their children
 
